@@ -28,7 +28,7 @@ This project was created as part of a learning process to practice web developme
 
 ## Author
 
-Created by: *Your Name*
+Created by: *Mariam*
 
 
 
